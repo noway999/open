@@ -1,0 +1,11 @@
+{
+    "header": {
+        "home": "홈",
+        "services":"서비스",
+        "about":"ABOUT",
+        "gallery":"갤러리",
+        "teams":"팀",
+        "testimonials":"TESTIMONIALS",
+        "contact":"CONTACT"
+    }
+}

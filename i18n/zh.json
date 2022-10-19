@@ -1,0 +1,11 @@
+{
+    "header": {
+        "home": "首页",
+        "services":"服务",
+        "about":"关于",
+        "gallery":"GALLERY",
+        "teams":"团队",
+        "testimonials":"TESTIMONIALS",
+        "contact":"联系方式"
+    }
+}
